@@ -6,7 +6,7 @@ Config.DamageNeeded = 100.0
 Config.EnableProne = true
 Config.JointEffectTime = 60
 Config.RemoveWeaponDrops = true
-Config.RemoveWeaponDropsTimer = 25
+Config.RemoveWeaponDropsTimer = 50
 
 Consumeables = {
     ["sandwich"] = math.random(35, 54),
